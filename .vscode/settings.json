@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "pruebas",
+            "database": "/Users/jclr/Downloads/SQL/mispracticas.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": false
+}
