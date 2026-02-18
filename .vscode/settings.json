@@ -7,5 +7,5 @@
             "database": "/Users/jclr/Downloads/SQL/mispracticas.db"
         }
     ],
-    "sqltools.useNodeRuntime": false
+    "sqltools.useNodeRuntime": true
 }
